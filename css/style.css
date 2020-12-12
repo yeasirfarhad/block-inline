@@ -1,0 +1,33 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.thinking{
+	background-color:skyblue;
+	color: purple;
+	padding:10px;
+}
+
+.para1{
+	font-size: 18px;
+	color: black;
+}
+
+.para2{
+	font-size: 18px;
+}
+
+.service{
+	color:blue;
+	border: 2px solid green;
+	
+}
+
+.product{
+	color: red;
+	border:2px solid blue;
+
+}
+
+
